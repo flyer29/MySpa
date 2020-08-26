@@ -1,6 +1,6 @@
 {
+  "homepage": "https://flyer29.github.io/my-app/",
   "name": "my-app",
-  "homepage": "https://flyer29.github.io/My_SPA/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
