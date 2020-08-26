@@ -20,8 +20,7 @@ const PostList = ({posts, onDelete, onToggleImportant, onToggleLiked}) => {
               onDelete={() => onDelete(id)}
               onToggleImportant={() => onToggleImportant(id)}
               onToggleLiked={() => onToggleLiked(id)}
-           /* label={item.label}
-           important={item.important} *//>
+            />
         </li>
     )
     }
